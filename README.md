@@ -10,3 +10,4 @@ multilifting is a technique which combines bit lifting and state prediction to c
 | Jungle Temple | ~2<sup>26.41</sup>     |         
 | Shipwreck     | ~2<sup>25.67</sup>     |         
 | Village       | ~2<sup>24.29</sup>     |         
+| Igloo | ~2<sup>26.41</sup>      |   
