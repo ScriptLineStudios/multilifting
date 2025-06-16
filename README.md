@@ -6,7 +6,7 @@ multilifting is a technique which combines bit lifting and state prediction to c
 | Structure     | Search space |
 | ------------  | ------------ |
 | Ruined Portal | ~2<sup>23.35</sup>     |       
-| Desert Temple | ~2^26.41     |           
-| Jungle Temple | ~2^26.41     |         
-| Shipwreck     | ~2^25.67     |         
-| Village       | ~2^24.29     |         
+| Desert Temple | ~2<sup>26.41</sup>      |           
+| Jungle Temple | ~2<sup>26.41</sup>     |         
+| Shipwreck     | ~2<sup>25.67</sup>     |         
+| Village       | ~2<sup>24.29</sup>     |         
